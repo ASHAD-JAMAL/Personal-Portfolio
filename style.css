@@ -8,14 +8,14 @@ html{
     scroll-behavior: smooth;
 }
 body {
-  background: #080808;
+  background: #000000;
   color: #fff;
 }
 #header {
   width: 100%;
   height: auto;
   /* background-image: url(./images/a5.png); */
-  background-size: 40% 100%;
+  /* background-size: 40% 100%; */
   background-repeat: no-repeat;
   /* background-size: 1300px 1100px; */
   background-position: right;
